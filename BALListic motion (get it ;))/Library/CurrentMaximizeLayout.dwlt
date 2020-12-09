@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 89
+  controlID: 10173
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -61,9 +61,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 117.83746, y: 62.131676, z: 475.29544}
+    m_Target: {x: 2453.8538, y: -24.658062, z: 3218.7954}
     speed: 2
-    m_Value: {x: 117.83746, y: 62.131676, z: 475.29544}
+    m_Value: {x: 2453.3396, y: -24.6457, z: 3218.7183}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -109,20 +109,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.013168785, y: -0.05696832, z: -0.00074810546, w: 0.99830747}
+    m_Target: {x: 0.015966723, y: 0.31263244, z: -0.005255177, w: 0.94976884}
     speed: 2
-    m_Value: {x: -0.014665958, y: -0.056966078, z: -0.00083354797, w: 0.99826807}
+    m_Value: {x: 0.015973927, y: 0.3111946, z: -0.0052310056, w: 0.9501975}
   m_Size:
-    m_Target: 485.8597
+    m_Target: 2597.0254
     speed: 2
-    m_Value: 508.75363
+    m_Value: 2485.1917
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.4
-    m_SpeedNormalized: 0.7099998
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 90
+  controlID: 10174
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 91
+  controlID: 10175
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,9 +245,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: de330000
+      m_SelectedIDs: c8340000
       m_LastClickedID: 0
-      m_ExpandedIDs: d8d3feff28d7feff3ed7fefffedafeff1cdbfeffecdbfeff06dcfeff16e4fefff6e8feff10e9feff2aecfeffa653ffff9655ffff44d8ffffd6e7ffff7ee8ffff70e9ffffbeecffff0cfaffff6cfbffff6834000084340000ac340000e03400005c3800008e380000284e0000
+      m_ExpandedIDs: ee21feff0831feff4ec0feff02c1feff1ec1feff30c1feff38c1feff98c1feff70c2feff8cc2feff30c3fefff0cdfeff72cefeff9ccefeff24d3feff62d9feff66f7feff184cffff5c52ffff56b7ffffd2bfffff36c3ffff34deffff04e8ffff9aeeffffc4eeffffecf2ffff68f6ffffbef9ffffaefaffff4cfbffffce3a0000b67000009aa10000a4a100000ea2000038a2000042a2000054a2000066a20000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -333,7 +333,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1221, y: 524}
+  m_TargetSize: {x: 932, y: 524}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -342,14 +342,14 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -610.5
-    m_HBaseRangeMax: 610.5
+    m_HBaseRangeMin: -466
+    m_HBaseRangeMax: 466
     m_VBaseRangeMin: -262
     m_VBaseRangeMax: 262
     m_HAllowExceedBaseRangeMin: 1
@@ -489,14 +489,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\shrek\UI Physics Sim
+  m_LastProjectPath: C:\Users\shrek\Documents\GitHub\physics-sim\BALListic motion
+    (get it ;))
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16340000
-    m_LastClickedID: 13334
-    m_ExpandedIDs: 000000000a34000000ca9a3b
+    m_SelectedIDs: b6340000
+    m_LastClickedID: 13494
+    m_ExpandedIDs: 00000000b034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a340000
+    m_ExpandedIDs: 00000000b034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -549,8 +550,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: de330000
-    m_LastClickedInstanceID: 13278
+    m_SelectedInstanceIDs: c8340000
+    m_LastClickedInstanceID: 13512
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
@@ -669,4 +670,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 233

@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 19715
+  controlID: 21219
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 19716
+  controlID: 21220
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 19717
+  controlID: 21221
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,9 +309,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1250.2078, y: -115.667076, z: 874.68994}
+    m_Target: {x: 69.79891, y: -1599.0137, z: 4911.5317}
     speed: 2
-    m_Value: {x: -1250.2078, y: -115.667076, z: 874.68994}
+    m_Value: {x: 69.79891, y: -1599.0137, z: 4911.5317}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -357,20 +357,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.033523075, y: -0.46146262, z: 0.01746978, w: 0.886379}
+    m_Target: {x: 0.1601171, y: 0.008881002, z: -0.0014499569, w: 0.9870982}
     speed: 2
-    m_Value: {x: 0.03352233, y: -0.4614524, z: 0.017469393, w: 0.88635933}
+    m_Value: {x: 0.1601106, y: 0.00888064, z: -0.001449898, w: 0.9870581}
   m_Size:
-    m_Target: 772.6568
+    m_Target: 2836.0166
     speed: 2
-    m_Value: 772.6568
+    m_Value: 2836.0166
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.5
-    m_SpeedNormalized: 0.76999974
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -444,7 +444,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 207efeffca80feffcc86fefffa87feff088efeff2691feffea96feff5297feff369bfeff809efeffd4a1feff1aa5fefffaa5feff0aa9feff6eadfeff80b0feff0eb6feffeab9feffeebefeff0ac5feff22c5feffc2c8feffb8cafeffd2cdfeffd8d3feff28d7feff3ed7fefffedafeff1cdbfeffecdbfeff06dcfeff16e4fefff6e8feff10e9feff2aecfeffa653ffff9655ffff44d8ffffd6e7ffff7ee8ffff70e9ffffbeecffff0cfaffff6cfbffff6834000084340000ac340000e03400005c3800008e380000284e0000a07000005e7500006c81000062870000
+      m_ExpandedIDs: 1ee9fdff3ae9fdffdae9fdffeae9fdff3613feffd613fefff213feff9214feff9614feffee21feff0831feff4ec0feff02c1feff1ec1feff30c1feff38c1feff98c1feff70c2feff8cc2feff30c3fefff0cdfeff72cefeff9ccefeff24d3feff62d9feff66f7feff184cffff5c52ffff56b7ffffd2bfffff36c3ffff34deffff04e8ffff9aeeffffc4eeffffecf2ffff68f6ffffbef9ffffaefaffff4cfbffffce3a0000b67000009aa10000a4a100000ea2000038a2000042a2000054a2000066a2000082b90000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -502,7 +502,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1221, y: 524}
+  m_TargetSize: {x: 932, y: 524}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -511,14 +511,14 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -610.5
-    m_HBaseRangeMax: 610.5
+    m_HBaseRangeMin: -466
+    m_HBaseRangeMax: 466
     m_VBaseRangeMin: -262
     m_VBaseRangeMax: 262
     m_HAllowExceedBaseRangeMin: 1
@@ -625,20 +625,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\shrek\UI Physics Sim
+  m_LastProjectPath: C:\Users\shrek\Documents\GitHub\physics-sim\BALListic motion
+    (get it ;))
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16340000
-    m_LastClickedID: 13334
-    m_ExpandedIDs: 000000000a34000000ca9a3b
+    m_SelectedIDs: b0340000
+    m_LastClickedID: 13488
+    m_ExpandedIDs: 00000000b034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -666,7 +667,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a34000000ca9a3b
+    m_ExpandedIDs: 00000000b034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
