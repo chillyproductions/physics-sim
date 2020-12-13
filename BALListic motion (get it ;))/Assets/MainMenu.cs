@@ -24,7 +24,7 @@ public class MainMenu : MonoBehaviour
         a0 = double.Parse(alphaField.GetComponent<Text>().text);
         v0 = double.Parse(velocityField.GetComponent<Text>().text);
         mass = double.Parse(massField.GetComponent<Text>().text);
-        burger.GetComponent<godCube>().setVars(a0, v0, mass);
+        burger.GetComponent<godCube>().setVars(a0, v0, mass, Time.deltaTime);
         SceneManager.LoadScene(simScene);
     }
 

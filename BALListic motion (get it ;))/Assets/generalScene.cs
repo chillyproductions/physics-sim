@@ -48,7 +48,7 @@ public class generalScene : MonoBehaviour
 
     void Update()
     {
-        if (Time.timeScale != 0)
+        if (Time.timeScale != 0 & Sphere.transform.position.y>0)
         {
             xArr.Add(Sphere.transform.position.x);
             yArr.Add(Sphere.transform.position.y);
@@ -95,6 +95,9 @@ public class generalScene : MonoBehaviour
     }
     public void returnBack()
     {
+
+        GameObject bruh = GameObject.Find("Bruh");
+        Destroy(bruh);
         SceneManager.LoadScene(0);
     }
 }

@@ -18,11 +18,11 @@ public class launcher : MonoBehaviour
         v0 = burger.GetComponent<godCube>().v0;
         mass = burger.GetComponent<godCube>().mass;
 
-        double F = rb.mass * v0 * 60;
+        double F = rb.mass * v0 * 1/((double) Time.fixedDeltaTime);
 
         double x_force = Math.Cos((a0 * Math.PI) / 180) * F;
         double y_force = Math.Sin((a0 * Math.PI) / 180) * F;
 
-        rb.AddForce(Convert.ToSingle(1f * x_force), Convert.ToSingle(1f * y_force), 0f);
+        rb.AddForce(Convert.ToSingle(1f * x_force), Convert.ToSingle(1f * y_force)+9.81f, 0f);
     }
 }
